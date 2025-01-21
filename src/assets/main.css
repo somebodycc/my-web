@@ -1,7 +1,0 @@
-@import './base.css';
-body {
-  background: linear-gradient(to left top, #30b05b 0, #3ba8b0 100%);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
